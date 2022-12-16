@@ -1,5 +1,3 @@
-package Tipay;
-
 import java.util.regex.Pattern;
 import java.lang.ProcessBuilder.Redirect.Type;
 import java.util.Arrays;
